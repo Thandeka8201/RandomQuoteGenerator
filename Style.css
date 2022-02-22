@@ -1,0 +1,27 @@
+h2{
+    font-family: Tahoma;
+    font-size: medium;
+    color:darkmagenta;
+    text-align: center;
+}
+.container{
+    box-sizing: border-box;
+    border: 2px solid aqua;
+    background-color: aqua;
+    margin: auto;
+    width: 50%;
+    height: 300px;
+}
+.quote-container{
+    box-shadow: 20px;
+    background-color:red;
+    margin: auto;
+    width: 45%;
+    height: 250px;
+}
+.btn{
+    color: black;
+    background-color: darkmagenta;
+    font-size: large;
+    align-self: baseline;
+}
